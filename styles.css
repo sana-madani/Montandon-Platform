@@ -1,0 +1,67 @@
+
+.red-line {
+    border-top: 1px solid red;
+    width: 100%;
+    margin: 60px 0 0 0; 
+}
+
+.red-bold-header{
+    color: red;
+    font-weight: bold;
+}
+
+.centered-text {
+    font-size: 24px;
+    text-align: center;
+    margin: 60px 0 0 0; 
+}
+
+/* styles.css */
+
+/* styles.css */
+
+/* styles.css */
+
+/* Apply styles to the red box */
+.red-box {
+    width: 80%;
+    height: 200px;
+    border: 2px solid red;
+    margin: 50px auto 0; /* Adjust top margin as needed */
+    display: flex;
+}
+
+/* Apply styles to the black lines */
+.black-lines {
+    width: 100%;
+    display: flex;
+}
+
+/* Apply styles to each split box */
+.split-box {
+    flex: 1;
+    border-right: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: left; /* Center-align text */
+    padding: 10px 0;  /* Adjust padding as needed */
+}
+
+/* Apply styles to text within split boxes */
+.bottom-text {
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.middle-text {
+    font-size: 36px;
+    font-weight: bold;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    margin-left: 15%;
+}
+
+
+
+
